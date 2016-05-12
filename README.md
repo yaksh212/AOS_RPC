@@ -1,3 +1,5 @@
+Contributors: Yakshdeep Kaul, Satyajeet Gawas
+
 How to run
 
 1. Run make all​to compile the server and client </br>
